@@ -4,7 +4,7 @@ A high-performance RC Surveillance Car built using the ESP32-CAM module and an L
 
 ![UI Preview](https://img.shields.io/badge/UI-Cyberpunk_HUD-00f7ff.svg)
 ![Platform](https://img.shields.io/badge/Platform-ESP32--CAM-blue)
-![Camera](https://img.shields.io/badge/Camera-OV2640%20%2F%20OV3660-green)
+![Camera](https://img.shields.io/badge/Camera-%20OV3660-green)
 
 ## ✨ Features
 
